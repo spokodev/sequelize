@@ -2754,15 +2754,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@oclif/test@npm:4.1.18":
-  version: 4.1.18
-  resolution: "@oclif/test@npm:4.1.18"
+"@oclif/test@npm:4.1.21":
+  version: 4.1.21
+  resolution: "@oclif/test@npm:4.1.21"
   dependencies:
     ansis: "npm:^3.17.0"
     debug: "npm:^4.4.3"
   peerDependencies:
     "@oclif/core": ">= 3.0.0"
-  checksum: 10c0/c8e8d91f2aad2d5945b0b6de2a579d903ba42f9b9d7d50768bb11c9164be04ac94dcb749cdf52855f309d8125df7c5f247b99d10ae575b52691f30d0047090bd
+  checksum: 10c0/73240aaf7781c4543612536c593e92fd8151657559afb648edb04cf5657f037e9f8d335c109ed8cc4149f5775be29cd4a7db4e04a7fcf35a8ad17d5642a307fa
   languageName: node
   linkType: hard
 
@@ -3004,7 +3004,7 @@ __metadata:
     "@inquirer/select": "npm:^4.4.2"
     "@oclif/core": "npm:^4.10.5"
     "@oclif/plugin-help": "npm:^6.2.55"
-    "@oclif/test": "npm:4.1.18"
+    "@oclif/test": "npm:4.1.21"
     "@sequelize/core": "workspace:*"
     "@sequelize/sqlite3": "workspace:*"
     "@sequelize/utils": "workspace:*"
